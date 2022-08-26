@@ -37,8 +37,9 @@ body{
     padding:100px;
 }
 
-.bottom{
-    padding:100px;
+.bottom-container{
+    padding:10px;
+    background-color: #E4F9F5;
 }
 
 .bottomcloud{
@@ -84,4 +85,8 @@ table{
 .prog{
     height: 200px;
     width: 200px;
+}
+
+button{
+    margin: 20px;
 }
