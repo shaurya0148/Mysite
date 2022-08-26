@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    font-family: 'Ubuntu Mono', serif;
+}
+
+h1{
+    font-size: 5.625rem;
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    
+}
+
+
+h2{
+    font-family: 'Ubuntu Mono', sans-serif;
+    font-size: 2.5rem;
+
+}
+
+h3{
+    font-family: 'Ubuntu Mono', sans-serif;
+    font-size: 2rem;   
+}
+
+body{
+    text-align: center;
+}
+
+.top{
+    background-color: #E4F9F5;
+    position: relative;
+    height:100%;
+    padding-top:100px;
+}
+
+.middle{
+    padding:100px;
+}
+
+.bottom{
+    padding:100px;
+}
+
+.bottomcloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.topcloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+
+img{
+    padding: 50px;
+}
+
+hr{
+    border-top: 10px grey;
+    border-style: dotted none none; 
+    width: 25%;
+    padding: 0;
+}
+
+p{
+    color: #27a1cd;
+    font: Ubuntu Mono;
+    font-size: 1.75rem;
+}
+
+.content{
+    font-size: 2rem;
+    
+}
+
+table{
+    text-align: centre;
+    margin: auto;
+}
+
+.prog{
+    height: 200px;
+    width: 200px;
+}
